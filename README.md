@@ -59,3 +59,5 @@ var moduleXYZ = require('moduleXYZ');
 
 ```
 You can find all loaders in this [list](http://webpack.github.io/docs/list-of-loaders.html).
+
+This framework is just for Xiaoxin simida~
